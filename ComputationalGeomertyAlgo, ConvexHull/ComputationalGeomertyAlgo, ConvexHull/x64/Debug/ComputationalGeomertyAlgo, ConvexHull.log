@@ -1,0 +1,3 @@
+﻿  ComputationalGeomertyAlgo, ConvexHull.cpp
+C:\Users\myerr\OneDrive\Desktop\CodeStuff\Algorithms&Data\ComputationalGeomertyAlgo, ConvexHull\ComputationalGeomertyAlgo, ConvexHull\ComputationalGeomertyAlgo, ConvexHull.cpp(19,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ComputationalGeomertyAlgo, ConvexHull.vcxproj -> C:\Users\myerr\OneDrive\Desktop\CodeStuff\Algorithms&Data\ComputationalGeomertyAlgo, ConvexHull\x64\Debug\ComputationalGeomertyAlgo, ConvexHull.exe
