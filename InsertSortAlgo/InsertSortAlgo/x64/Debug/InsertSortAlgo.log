@@ -1,0 +1,3 @@
+﻿  InsertSortAlgo.cpp
+C:\Users\myerr\OneDrive\Desktop\CodeStuff\Algorithms&Data\InsertSortAlgo\InsertSortAlgo\InsertSortAlgo.cpp(7,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  InsertSortAlgo.vcxproj -> C:\Users\myerr\OneDrive\Desktop\CodeStuff\Algorithms&Data\InsertSortAlgo\x64\Debug\InsertSortAlgo.exe
